@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.13 17:40:26.473,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.13 17:40:26.664,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.13 17:41:25.157,D:\Projects\Programming\CPP\BDS\Console\TUI\JumpingLetters\JumpingLettersPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.13 17:41:25.176,D:\Projects\Programming\CPP\BDS\Console\TUI\JumpingLetters\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.13 17:41:25.197,D:\Projects\Programming\CPP\BDS\Console\TUI\JumpingLetters\JumpingLetters.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.13 17:41:33.370,D:\Projects\Programming\CPP\BDS\Console\TUI\JumpingLetters\JumpingLetters.cpp=D:\Projects\Programming\CPP\BDS\Console\TUI\JumpingLetters\File1.cpp</Transaction>
+    <Transaction>2026.01.13 17:41:36.274,D:\Projects\Programming\CPP\BDS\Console\TUI\JumpingLetters\JumpingLetters.cbproj=D:\Projects\Programming\CPP\BDS\Console\TUI\JumpingLetters\JumpingLetters.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
